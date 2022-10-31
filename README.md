@@ -1,4 +1,4 @@
-Web Scraping<br>
+Web Scraping and EDA<br>
 
 > BeautifulSoup, requests library, pandas, matplotlib, seaborn
 
